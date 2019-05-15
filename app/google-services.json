@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "951728967641",
+    "firebase_url": "https://vetterhealth-c30ef.firebaseio.com",
+    "project_id": "vetterhealth-c30ef",
+    "storage_bucket": "vetterhealth-c30ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951728967641:android:4874cf07cccdeb86",
+        "android_client_info": {
+          "package_name": "com.efp.vetterhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951728967641-s2uajsnb6t043608tkoss95gk69coe3b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx3miji5eVF5dCWw1FgcaqNnvKWcXMflM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951728967641-s2uajsnb6t043608tkoss95gk69coe3b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

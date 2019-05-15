@@ -6,4 +6,5 @@
     <string name="title_sleep_tracking">Sleep Tracking</string>
     <string name="title_reminders">Reminders</string>
     <string name="title_post">Post</string>
+    <string name="action_settings">Settings</string>
 </resources>
